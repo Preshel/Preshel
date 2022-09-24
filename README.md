@@ -2,7 +2,8 @@
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python and SQL projects
-- 📫 Reach me @d_digitalist on #twitter
+- 📫 Reach me @preshel_
+on #twitter
 
 <!---
 Preshel/Preshel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

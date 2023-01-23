@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python and SQL projects
-- 📫 Reach me @preshel_
+- 📫 Precious Diedemise on LinkedIn and Twitter
 on #twitter
 
 <!---
